@@ -1,2 +1,2 @@
 # Patients-and-Doctors-data-using-MS-access
-Creating Form interface to input data and also saving it in form of table. Created report for further analysis
+Tables, Forms, Queries and Reports for data storing and analysis using MS access
